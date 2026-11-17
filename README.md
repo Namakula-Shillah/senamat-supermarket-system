@@ -21,7 +21,7 @@ A Django-based supermarket management application for organizing products, custo
 
 | No. | Full name           | Registration number 
 | 1   | NAMAKULA SHILLAH    | [224-063011-31887] 
-| 2   | SSERUGYA FARIID     | [224-063011-] 
+| 2   | SSERUGYA FARIID     | [224-063011-28296] 
 | 3   | ATAYI GENDER SHUHAT | [224-063012-30123] 
 
 **Institution:** [ISLAMIC UNIVERSITY IN UGANDA (KAMPALA CAMPUS)]  
