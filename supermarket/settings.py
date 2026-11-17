@@ -33,7 +33,11 @@ if not SECRET_KEY:
 
 DEBUG = not IS_RENDER
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = [
+    'senamat-supermarket-system.onrender.com',
+    'localhost',
+    '127.0.0.1',
+]
 
 render_host = os.environ.get("RENDER_EXTERNAL_HOSTNAME")
 
